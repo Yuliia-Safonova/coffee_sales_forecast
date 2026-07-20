@@ -1,34 +1,34 @@
 # ☕ Coffee Sales Forecast
 
-## Project Overview
+## 📌 Projektübersicht
 
-This project demonstrates a simple Machine Learning workflow for forecasting monthly coffee shop sales using Linear Regression.
+Dieses Projekt zeigt den vollständigen Ablauf eines einfachen Machine-Learning-Projekts zur Prognose zukünftiger Verkaufszahlen eines Cafés.
 
-The objective is to analyze historical revenue data, build a predictive model, evaluate its performance, and forecast future sales for the first half of 2025.
+Auf Grundlage historischer Monatsumsätze wird ein Modell der linearen Regression erstellt, um den Umsatz für die ersten sechs Monate des Jahres 2025 vorherzusagen.
 
-This project was completed as part of a Machine Learning course and focuses not only on building a model but also on interpreting the results and understanding the limitations of forecasting.
-
----
-
-## Business Problem
-
-The management of a coffee shop chain wants to estimate future monthly revenue in order to support budgeting and business planning.
-
-Using historical sales data from 2022 to 2024, a Linear Regression model is trained to predict future revenue.
+Der Schwerpunkt liegt nicht nur auf der Erstellung des Modells, sondern auch auf der Interpretation der Ergebnisse und der Bewertung der Zuverlässigkeit der Prognose.
 
 ---
 
-## Dataset
+## 🎯 Projektziel
 
-The dataset contains monthly revenue information for a coffee shop over a three-year period.
+Das Management einer Café-Kette möchte den zukünftigen Umsatz besser einschätzen, um die Budgetplanung für das kommende Jahr zu unterstützen.
 
-Main variable:
-
-- Monthly sales revenue
+Mithilfe historischer Verkaufsdaten wird ein Machine-Learning-Modell trainiert, das zukünftige Monatsumsätze prognostiziert.
 
 ---
 
-## Technologies
+## 📊 Datensatz
+
+Der Datensatz enthält die monatlichen Umsätze eines Cafés im Zeitraum von 2022 bis 2024.
+
+**Verwendete Variable**
+
+- Monatlicher Umsatz
+
+---
+
+## 🛠️ Verwendete Technologien
 
 - Python
 - Pandas
@@ -39,28 +39,29 @@ Main variable:
 
 ---
 
-## Project Workflow
+## 🔍 Projektablauf
 
-- Data loading
-- Data exploration
-- Data visualization
-- Linear Regression model
-- Model evaluation
-- Sales forecasting
-- Business interpretation
-
----
-
-## Results
-
-*This section will be completed after finishing the project.*
+- Laden der Daten
+- Explorative Datenanalyse (EDA)
+- Visualisierung der Umsatzentwicklung
+- Vorbereitung der Daten
+- Training eines Linear-Regression-Modells
+- Bewertung des Modells
+- Umsatzprognose für zukünftige Monate
+- Interpretation der Ergebnisse
 
 ---
 
-## Repository Structure
+## 📈 Ergebnisse
+
+*Dieser Abschnitt wird nach Abschluss des Projekts ergänzt.*
+
+---
+
+## 📁 Repository-Struktur
 
 ```
-coffee-sales-forecast/
+coffee_sales_forecast/
 │
 ├── data/
 │   └── coffee_sales.csv
@@ -79,18 +80,16 @@ coffee-sales-forecast/
 
 ---
 
-## Future Improvements
+## 🚀 Mögliche Erweiterungen
 
-Possible improvements include:
-
-- using more historical data;
-- adding seasonal features;
-- testing more advanced forecasting models;
-- comparing multiple regression algorithms.
+- Berücksichtigung saisonaler Effekte
+- Vergleich mit weiteren Regressionsmodellen
+- Hyperparameter-Optimierung
+- Verwendung eines größeren Datensatzes
 
 ---
 
-## Author
+## 👩‍💻 Autorin
 
 **Yuliia Safonova**
 
