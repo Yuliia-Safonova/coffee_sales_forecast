@@ -95,13 +95,7 @@ coffee_sales_forecast/
 ├── notebooks/
 │   └── coffee_forecast.ipynb
 │
-├── images/
-│
-├── presentation/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── README.md
 ```
 
 ---
@@ -217,13 +211,7 @@ coffee_sales_forecast/
 ├── notebooks/
 │   └── coffee_forecast.ipynb
 │
-├── images/
-│
-├── presentation/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── README.md
 ```
 
 ---
