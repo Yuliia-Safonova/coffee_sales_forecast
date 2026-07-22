@@ -95,7 +95,8 @@ coffee_sales_forecast/
 ├── notebooks/
 │   └── coffee_forecast.ipynb
 │
-└── README.md
+├── README.md
+└── TASK.md
 ```
 
 ---
@@ -211,7 +212,8 @@ coffee_sales_forecast/
 ├── notebooks/
 │   └── coffee_forecast.ipynb
 │
-└── README.md
+├── README.md
+└── TASK.md
 ```
 
 ---
